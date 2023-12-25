@@ -20,13 +20,24 @@ h1 {
 }
 </style>
 
-# Workshop Technology
+# 259106: Workshop Technology
 
 ---
 
-# AI-powered Application
+# AI-powered Web Application
 
-## House Price Prediction
+## Cloth Size Prediction
+
+---
+
+# Technology
+
+- Machine learning
+  - Tensorflow library
+  - Python language
+- Web application
+  - HTML
+  - JavaScript
 
 ---
 
@@ -34,7 +45,19 @@ h1 {
 
 ---
 
-# Model building
+# Artificial Neural Networks (ANN)
+
+- Algorithms based on brain function and are used to model complicated patterns and forecast issues.
+
+- ANN can be best viewed as weighted directed graphs, that are commonly organized in layers.
+
+---
+
+![](./img/ANN.png)
+
+---
+
+# Let's build ANN to predict cloth size.
 
 ---
 
@@ -45,6 +68,19 @@ h1 {
 
 ---
 
-# Model prediction
+# Let's build a web application to make prediction.
 
 ---
+
+# File structure
+
+![](./img/files.png)
+
+---
+
+- `index.html`
+
+  - https://gist.github.com/nnnpooh/7ae7c88ac6ae7152c6469eca16282a2b#file-index-html
+
+- `script.js`
+  - https://gist.github.com/nnnpooh/7ae7c88ac6ae7152c6469eca16282a2b#file-script-js
