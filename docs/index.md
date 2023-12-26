@@ -61,7 +61,14 @@ h1 {
 
 ---
 
-# Google Colab
+# Data
+
+- https://raw.githubusercontent.com/it-for-ie-66/tf_dev/main/src/T04%20-%20Cloth/data_sampled.csv
+  - This data was adapted from [Source - Kaggle](https://www.kaggle.com/datasets/tourist55/clothessizeprediction).
+
+---
+
+# Machine learning code
 
 - https://colab.research.google.com/drive/1QSs0VHlb3djvZfI_D5_PelAGcmlT80L3?usp=sharing
 - You should obtain the saved model (zip).
@@ -84,3 +91,9 @@ h1 {
 
 - `script.js`
   - https://gist.github.com/nnnpooh/7ae7c88ac6ae7152c6469eca16282a2b#file-script-js
+
+---
+
+# Deployment
+
+https://www.netlify.com/
